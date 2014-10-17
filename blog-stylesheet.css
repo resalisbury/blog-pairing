@@ -1,0 +1,47 @@
+header {
+  margin: 0px 0px 0px 0px;
+  border: 1px solid black;
+}
+
+nav {
+  text-align: center;
+}
+
+nav a {
+  border-right: 1px solid black;
+  width: 24%;
+  display: inline-block;
+  vertical-align: center;
+  background: red;
+  margin: 0px 0px 0px 0px;
+  text-decoration: none;
+}
+
+.post {
+  border: 1px solid black;
+  margin-bottom: 10px;
+  padding: 0px 10px 0px 10px
+}
+
+.post p:first-child {
+  font-size: 2em;
+  margin: 0px 0px 0px 0px;
+}
+
+.blog-text {
+  margin: 0px 0px 10px 0px;
+
+}
+
+a:link {
+  color: blue;
+}
+
+a:visited {
+  color: purple;
+}
+
+.read {
+  float: right;
+}
+
